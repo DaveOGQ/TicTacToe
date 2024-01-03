@@ -1,5 +1,5 @@
 # TicTacToe.java: A Small Scale graphical user interface (GUI) for TicTacToe.
-  - posseses with a AI opponent
+  - posseses an AI opponent
   - users can choose between varying levels of difficulty
   - Users can choose to engage in the game with a Gui or through the powershell
   - There is a hint feature as well
